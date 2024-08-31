@@ -1,4 +1,4 @@
-The goal is to handle very simple JSON objects like {} and correctly identify valid and invalid JSON, returning the appropriate exit code.
+# The goal is to handle very simple JSON objects like {} and correctly identify valid and invalid JSON, returning the appropriate exit code.
 
 #Explanation:
 Lexer: The lexer is simplified to handle just the curly braces {} and whitespace.
